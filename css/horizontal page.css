@@ -1,0 +1,30 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  overflow: hidden; /* 스크롤바 숨기기 */
+}
+
+.verticalCont {
+  display: flex;
+  flex-direction: column; /* 수직 방향으로 변경 */
+  height: 400vh; /* 섹션 수에 따라 변경 */
+  width: 100vw;
+  transition: transform 0.5s ease-in-out;
+  transition-delay: 0.2s;
+}
+
+.section {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* font-size: 2rem; */
+  /* opacity: 0; 애니메이션 전에는 보이지 않도록 설정 */
+  /* transition: opacity 0.5s ease-in-out; 페이드 인 애니메이션 설정 */
+}
+
+.section.active {
+}
+
