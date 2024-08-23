@@ -18,16 +18,16 @@
   display: block;
 }
 .visual .title .img_tt img:nth-child(1) {
-  animation-delay: 0.4s;
+  animation-delay: 1.4s;
 }
 .visual .title .img_tt img:nth-child(2) {
-  animation-delay: 0.2s;
+  animation-delay: 1.2s;
 }
 .visual .title .img_tt img:nth-child(3) {
-  animation-delay: 0.3s;
+  animation-delay: 1.3s;
 }
 .visual .title .img_tt img:nth-child(4) {
-  animation-delay: 0.5s;
+  animation-delay: 1.5s;
 }
 
 .visual .title .txt_tt {
@@ -44,28 +44,28 @@
   animation: load_bt 2s both;
 }
 .visual .title .txt_tt span:nth-child(1) {
-  animation-delay: 0.6s;
+  animation-delay: 1.5s;
 }
 .visual .title .txt_tt span:nth-child(2) {
-  animation-delay: 0.8s;
+  animation-delay: 1.9s;
 }
 .visual .title .txt_tt span:nth-child(3) {
-  animation-delay: 1s;
+  animation-delay: 2s;
 }
 .visual .title .txt_tt span:nth-child(4) {
-  animation-delay: 1.2s;
+  animation-delay: 2.4s;
 }
 .visual .title .txt_tt span:nth-child(5) {
-  animation-delay: 1.3s;
+  animation-delay: 2.6s;
 }
 .visual .title .txt_tt span:nth-child(6) {
-  animation-delay: 0.9s;
+  animation-delay: 2.2s;
 }
 .visual .title .txt_tt span:nth-child(7) {
-  animation-delay: 0.6s;
+  animation-delay: 1.7s;
 }
 .visual .title .txt_tt span:nth-child(8) {
-  animation-delay: 0.3s;
+  animation-delay: 1.3s;
 }
 
 /* moto */
